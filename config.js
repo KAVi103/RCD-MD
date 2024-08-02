@@ -45,7 +45,7 @@ global.scan = "";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  ""
+  "PRABATH-MD~ljs0CbDC#FUibVk7DOEqf2t0_sh0G2Md7wokMqog7fMkTn4VcczQ"
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
